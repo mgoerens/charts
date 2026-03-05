@@ -5,5 +5,5 @@ providerDelivery: false
 publicPgpKey: unknown
 users: []
 vendor:
-  label: test
+  label: test2
   name: Oceanic
