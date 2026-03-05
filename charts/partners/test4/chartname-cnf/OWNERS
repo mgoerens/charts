@@ -1,0 +1,13 @@
+chart:
+  name: chartname-cnf
+  shortDescription: Adding a long description because why not this should make a large enough diff for this to be considered a add rm rather than a mv hopefully
+providerDelivery: true
+publicPgpKey: unknown
+users:
+  - mgoerens2
+  - mgoerens
+  - anotherone
+  - andonelastone
+vendor:
+  label: test4
+  name: Oceanic
